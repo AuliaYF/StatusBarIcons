@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/batt_0" android:maxLevel="4" />
+    <item android:drawable="@drawable/batt_15" android:maxLevel="15" />
+    <item android:drawable="@drawable/batt_28" android:maxLevel="35" />
+    <item android:drawable="@drawable/batt_43" android:maxLevel="49" />
+    <item android:drawable="@drawable/batt_57" android:maxLevel="60" />
+    <item android:drawable="@drawable/batt_71" android:maxLevel="75" />
+    <item android:drawable="@drawable/batt_85" android:maxLevel="90" />
+    <item android:drawable="@drawable/batt_100" android:maxLevel="100" />
+</level-list>
